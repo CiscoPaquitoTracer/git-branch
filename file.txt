@@ -2,3 +2,5 @@ Main 1
 Main 2
 Main 3
 Feature 003
+Feature 002 - commit 1
+Feature 001
